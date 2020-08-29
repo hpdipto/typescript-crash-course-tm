@@ -23,7 +23,7 @@ strArr = ['Hello', 'World']
 numArr = [1, 2, 3]
 boolArr = [true, false, true]
 
-strNumTuple = ['Hello', 1, 2, 3]
+strNumTuple = ['Hello', 1]
 
 let myVoid: void = null
 let myNull: null = null
